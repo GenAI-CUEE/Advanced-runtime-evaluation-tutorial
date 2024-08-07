@@ -22,7 +22,7 @@ We provide a tutorial about measuring Time difference, MACs, and FLOP/s.
 
 `Profiling_with_libraries.ipynb` 
 
-<a target="_blank" href="https://colab.research.google.com/github.com/GenAI-CUEE/Advanced-runtime-evaluation-tutorial/blob/master/Profiling_with_libraries.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/GenAI-CUEE/Advanced-runtime-evaluation-tutorial/blob/master/Profiling_with_libraries.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
